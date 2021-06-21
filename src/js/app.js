@@ -1,5 +1,3 @@
-import './sass/main.scss';
-
 const galleryItems = [
     {
       preview:
