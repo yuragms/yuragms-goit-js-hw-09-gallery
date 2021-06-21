@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yuragms.github.io/goit-js-hw-09-gallery/",
+  "homepage": "https://yuragms.github.io/yuragms-goit-js-hw-09-gallery/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
+    "build": "parcel build src/*.html --public-url /yuragms-goit-js-hw-09-gallery/"
   },
   "repository": {
     "type": "git",
